@@ -1,5 +1,6 @@
-new file added
-do note to work and finall all lessons practice exercise
+# new file added
+
+# do note to work and finish all lessons practice exercise
 - [ ] Lesson 1 Exercises
 - [ ] Lesson 2 Exercises
 - [ ] Lesson 3 Exercises
