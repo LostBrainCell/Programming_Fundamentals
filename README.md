@@ -6,3 +6,4 @@
 - [ ] Lesson 3 Exercises
 - [ ] Lesson 4 Exercises
 - [ ] Lesson 5 Exercises
+- [ ] Lesson 6 Exercises
