@@ -1,4 +1,8 @@
 Items = ["apple", "banana", "cherry", "date"]
 
-for i in range(len(Items)):
-    print(Items[i])
+for item in Items:
+    print(item)
+
+
+
+ 
