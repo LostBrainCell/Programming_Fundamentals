@@ -13,6 +13,7 @@ while True:
     
     if play == "n":
         break
+print("Thanks for playing!")
 # print("Welcome to the Price is Right! Guess the price of this coffee")
 # guess = int(input("Guess the price of the item: "))
 
