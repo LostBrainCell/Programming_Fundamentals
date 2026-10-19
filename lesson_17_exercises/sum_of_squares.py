@@ -7,11 +7,10 @@ my_square = int(input("Enter a number to sum the squares: "))
 # total = 0
 
 # for 1 until my_square+1 because upper range is exclusive
-# for number in range(1, my_square+1):
+# for i in range(1, my_square+1):
 #     # add squared number to our total
-#     total += number ** 2
+#     total += i ** 2
 total = calculate_squares(my_square)
-
 
 # print total
 print(F"The sum of squares is {total}")
