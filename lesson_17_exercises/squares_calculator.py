@@ -1,5 +1,5 @@
 def calculate_squares(num):
     total = 0
-    for number in range(num):
-        total += (number+1) ** 2
+    for i in range(1, num + 1):
+        total += i ** 2
     return total
